@@ -7,7 +7,7 @@ url = "https://api.rawg.io/api/games"
 # พารามิเตอร์ (ขอข้อมูล 3 เกม)
 params = {
     "page_size": 3,
-    "key": "f7123d1c28d944d3b6a7182c3509fcf7"  # ถ้าไม่มี API Key ให้ลบออก
+    "key": "f7123d1c28d944d3b6a7182c3509fcf7"  
 }
 
 # ดึงข้อมูลจาก API
